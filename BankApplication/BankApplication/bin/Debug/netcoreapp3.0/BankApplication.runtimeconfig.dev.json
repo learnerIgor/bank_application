@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\igore\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\igore\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankApplication.exe
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankApplication.deps.json
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankApplication.runtimeconfig.json
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankApplication.runtimeconfig.dev.json
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankApplication.dll
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankApplication.pdb
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\igore\Desktop\BankApplication\BankApplication\bin\Debug\netcoreapp3.0\BankLibrary.pdb
+C:\Users\igore\Desktop\BankApplication\BankApplication\obj\Debug\netcoreapp3.0\BankApplication.csprojAssemblyReference.cache
+C:\Users\igore\Desktop\BankApplication\BankApplication\obj\Debug\netcoreapp3.0\BankApplication.AssemblyInfoInputs.cache
+C:\Users\igore\Desktop\BankApplication\BankApplication\obj\Debug\netcoreapp3.0\BankApplication.AssemblyInfo.cs
+C:\Users\igore\Desktop\BankApplication\BankApplication\obj\Debug\netcoreapp3.0\BankApplication.csproj.CopyComplete
+C:\Users\igore\Desktop\BankApplication\BankApplication\obj\Debug\netcoreapp3.0\BankApplication.dll
+C:\Users\igore\Desktop\BankApplication\BankApplication\obj\Debug\netcoreapp3.0\BankApplication.pdb

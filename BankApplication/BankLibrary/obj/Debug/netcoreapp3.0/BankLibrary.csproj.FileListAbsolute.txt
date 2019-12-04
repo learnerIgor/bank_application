@@ -1,0 +1,8 @@
+C:\Users\igore\Desktop\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.deps.json
+C:\Users\igore\Desktop\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\igore\Desktop\BankApplication\BankLibrary\bin\Debug\netcoreapp3.0\BankLibrary.pdb
+C:\Users\igore\Desktop\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\igore\Desktop\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\igore\Desktop\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.AssemblyInfo.cs
+C:\Users\igore\Desktop\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\igore\Desktop\BankApplication\BankLibrary\obj\Debug\netcoreapp3.0\BankLibrary.pdb
